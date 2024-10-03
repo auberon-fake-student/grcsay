@@ -4,7 +4,9 @@ Hello!!!!!!
 An exercise for collaborating with git / GitHub. Please read the directions CAREFULLY! I recommend focusing on the changes to the README before reading the Java code.
 
 ## Setting up git merging strategy
-1. Each partner should run these commands on their own terminal. PLEASE DO NOT SKIP THIS PART!!! Really don't!!! Please!!!!
+
+1. Each partner should run these commands on their own terminal. PLEASE DO NOT SKIP THIS PART!!! Really don't!!! Please!!!! This is a sample
+
     ```
     git config --global pull.ff true
     git config --global pull.rebase false
